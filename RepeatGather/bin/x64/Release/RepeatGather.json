@@ -1,0 +1,18 @@
+{
+  "Author": "Xedo",
+  "Name": "RepeatGather",
+  "InternalName": "RepeatGather",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Repeat last gathering action",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "gathering"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Repeat last gathering.",
+  "AcceptsFeedback": true
+}
