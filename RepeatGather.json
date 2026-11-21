@@ -1,9 +1,0 @@
-{
-  "Author": "Xedo",
-  "Name": "RepeatGather",
-  "InternalName": "RepeatGather",
-  "Punchline": "Repeat last gathering.",
-  "Description": "Repeat last gathering action",
-  "ApplicableVersion": "any",
-  "Tags": ["gathering"]
-}
