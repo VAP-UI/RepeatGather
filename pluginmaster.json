@@ -3,7 +3,7 @@
     "Author": "VAP-UI",
     "Name": "RepeatGather",
     "InternalName": "RepeatGather",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "0.0.0.1",
     "Description": "Repete o item selecionado na janela de coleta até o node acabar.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/VAP-UI/RepeatGather",
