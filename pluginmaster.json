@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.0.0.0",
     "Description": "Repete o item selecionado na janela de coleta até o node acabar.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/SEUUSUARIO/RepeatGather",
+    "RepoUrl": "https://github.com/VAP-UI/RepeatGather",
     "Tags": ["gathering"],
     "DalamudApiLevel": 14,
     "LoadPriority": 0,
