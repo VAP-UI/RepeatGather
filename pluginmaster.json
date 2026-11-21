@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "VAP-UI",
+    "Name": "RepeatGather",
+    "InternalName": "RepeatGather",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Repete o item selecionado na janela de coleta até o node acabar.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/SEUUSUARIO/RepeatGather",
+    "Tags": ["gathering"],
+    "DalamudApiLevel": 14,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": "1763700000",
+    "DownloadLinkInstall": "https://github.com/SEUUSUARIO/RepeatGather/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SEUUSUARIO/RepeatGather/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SEUUSUARIO/RepeatGather/releases/latest/download/latest.zip"
+  }
+]
