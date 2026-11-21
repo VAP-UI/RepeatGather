@@ -8,7 +8,7 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/VAP-UI/RepeatGather",
     "Tags": ["gathering"],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
